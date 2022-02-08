@@ -32,4 +32,4 @@ add introduction to HRI
 ### [5.c Actuators](/Sensing_And_Hardware/Actuators.md) 
 
 ## [6. Resources](/Resources/Resources_Home.md) 
-## [7. Authors](/Resources/Authors_Home.md) 
+## [7. Authors](/Authors/Authors_Home.md) 
