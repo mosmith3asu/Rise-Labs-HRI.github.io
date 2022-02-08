@@ -2,7 +2,8 @@
 title: Home
 ---
 
-Add Landing Page Description (Updated)
+Add Landing Page Description \
+add introduction to HRI
 
 # Table of Contents
 ## [1. Applications](/Applications/Applications_Home.md) 
