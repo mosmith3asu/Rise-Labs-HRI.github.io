@@ -6,9 +6,9 @@ Add Landing Page Description
 
 # Table of Contents
 [1. Applications](/Applications/Applications_Home.md) \
-[1.a Gait Rehabilitation](/Applications/Gait_Rehab) \
-[1.b Human-Robot Teaming](/Applications/HRT) \
-[1.b Autonomous Vehciles](/Applications/AV) 
+[1.a Gait Rehabilitation](/Applications/Gait_Rehab.md) \
+[1.b Human-Robot Teaming](/Applications/HRT.md) \
+[1.b Autonomous Vehciles](/Applications/AV.md) 
 
 [2. Multi-Agent Interaction](/Applications/Applications_Home) \
 [2.a Signaling & Communication](/Applications/Gait_Rehab) \
