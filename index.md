@@ -10,7 +10,7 @@ Add Landing Page Description (Updated)
 [1.b Human-Robot Teaming](/Applications/HRT.md) \
 [1.b Autonomous Vehciles](/Applications/AV.md) 
 
-[2. Multi-Agent Interaction](/Applications/Applications_Home) \
+[2. Multi-Agent Interaction](/Multi_Agent_Interaction/Multi_Agent_Interaction_Home.md) \
 [2.a Signaling & Communication](/Applications/Gait_Rehab) \
 [2.b Game Theory](/Applications/HRT) \
 [2.b Saftey](/Applications/AV) 
