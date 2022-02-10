@@ -2,7 +2,7 @@
 title: Giat Rehabilitation 
 ---
 
-[Return Home Page](/index.md)
+[Return Home Page](../index.md)
 # Main Topic 1 
 *(EXAMPLE: Game Theory)* \
 *(Insert short introduction for main topic)*
@@ -34,4 +34,4 @@ title: Giat Rehabilitation
 + *(ADD: Article or resource)*
 + *(ADD: Article or resource)*
 
-[Return Home](/index.md)
+[Return Home Page](../index.md)
