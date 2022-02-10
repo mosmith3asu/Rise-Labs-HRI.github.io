@@ -1,4 +1,10 @@
-title: Applications home
+title: Applications home (Updated)
 ---
-[Return Home](/index)
+[Return Home](/index.md)\
+[Return Home](/index)\
+[Return Home](/)\
+[Return Home](../index.md)\
+[Return Home](../index)\
+[Return Home](../)
+
 ---
