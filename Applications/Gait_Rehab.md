@@ -19,6 +19,8 @@ title: Giat Rehabilitation
 + *(Article or resource)*
 + *(Article or resource)*
 
+---
+
 ## Concept or Subtopic *(ex: Pareto optimality) *
 *(description of concept or subtopic)*
 
