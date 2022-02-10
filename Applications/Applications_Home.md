@@ -1,4 +1,4 @@
 title: Applications home
 ---
-[Return Home](/index.md)
+[Return Home](/index)
 ---
