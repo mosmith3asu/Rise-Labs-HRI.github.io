@@ -6,7 +6,7 @@ title: Giat Rehabilitation
 # Main Topic *(ex: Game Theory )* 
 *(Insert short introduction for main topic)*
 
-===
+---
 
 ## Concept or Subtopic *(ex: Nash equilibrium solutions)*
 *(description of concept or subtopic)*
