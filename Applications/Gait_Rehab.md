@@ -9,27 +9,27 @@ title: Giat Rehabilitation
 ---
 
 ## Concept or Subtopic *(ex: Nash equilibrium solutions)*
-*(description of concept or subtopic)*
+*(ADD: description of concept or subtopic)*
 
 ### Sample Projects
-*(RISE Code/Github link and description)*
-*(In text example/walkthrough)*
+*(ADD: RISE Code/Github link and description)*
+*(ADD: or in text example/walkthrough)*
  
-### Additional Reading (examples of good articles)
-+ *(Article)*
-+ *(Article)*
-+ *(Article)*
+### Additional Reading
++ *(ADD: Article)*
++ *(ADD: Article)*
++ *(ADD: Article)*
 
 ---
 
 ## Concept or Subtopic *(ex: Pareto optimality) *
-*(description of concept or subtopic)*
+*(ADD: description of concept or subtopic)*
 
 ### Sample Projects
-*(RISE Code/Github link and description)*
-*(In text example/walkthrough)*
+*(ADD: RISE Code/Github link and description)*
+*(ADD: or in text example/walkthrough)*
 
-### Additional Reading and Resources (examples of good articles)
-+ *(Article or resource)*
-+ *(Article or resource)*
-+ *(Article or resource)*
+### Additional Reading
++ *(ADD: Article or resource)*
++ *(ADD: Article or resource)*
++ *(ADD: Article or resource)*
