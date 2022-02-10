@@ -1,4 +1,4 @@
 # Authors
 ---
-[Return Home](/index.md)
+[Return Home](../index.md)
 ---
