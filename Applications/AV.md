@@ -2,7 +2,7 @@
 title: Autonomous Vehicles
 ---
 
-[Return Home Page](/index.md)
+[Return Home Page](../index.md)
 # Main Topic 1 
 *(EXAMPLE: Game Theory)* \
 *(Insert short introduction for main topic)*
@@ -34,4 +34,4 @@ title: Autonomous Vehicles
 + *(ADD: Article or resource)*
 + *(ADD: Article or resource)*
 
-[Return Home](/index.md)
+[Return Home Page](../index.md)
