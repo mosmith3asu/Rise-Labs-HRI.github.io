@@ -33,3 +33,7 @@ title: Giat Rehabilitation
 + *(ADD: Article or resource)*
 + *(ADD: Article or resource)*
 + *(ADD: Article or resource)*
+
+---
+
+[Return Home](/index.md)
