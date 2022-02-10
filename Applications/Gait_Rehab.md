@@ -3,15 +3,16 @@ title: Giat Rehabilitation
 ---
 
 [Return Home Page](/index.md)
-# Main Topic 1 *(ex: Game Theory)* 
+# Main Topic 1 
+*(EXAMPLE: Game Theory)* \
 *(Insert short introduction for main topic)*
 
 ## Concept or Subtopic 1
-*(EXAMPLE: Nash equilibrium solutions)*
+*(EXAMPLE: Nash equilibrium solutions)*\
 *(ADD: description of concept or subtopic)*
 
 ### Sample Projects
-*(ADD: RISE Code/Github link and description)*
+*(ADD: RISE Code/Github link and description)*\
 *(ADD: or in text example/walkthrough)*
  
 ### Additional Reading
@@ -21,11 +22,11 @@ title: Giat Rehabilitation
 
 
 ## Concept or Subtopic 2
-*(EXAMPLE: Pareto optimality)*
+*(EXAMPLE: Pareto optimality)*\
 *(ADD: description of concept or subtopic)*
 
 ### Sample Projects
-*(ADD: RISE Code/Github link and description)*
+*(ADD: RISE Code/Github link and description)*\
 *(ADD: or in text example/walkthrough)*
 
 ### Additional Reading
