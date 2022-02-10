@@ -6,7 +6,7 @@ title: Giat Rehabilitation
 # Main Topic *(ex: Game Theory )* 
 *(Insert short introduction for main topic)*
 
-## Concept or Subtopic *(Nash equilibrium solutions) *
+## Concept or Subtopic *(ex: Nash equilibrium solutions)*
 *(description of concept or subtopic)*
 
 ### Examples or Walkthrough *(RISE Code/Github + RISE example/walkthrough)*
@@ -17,7 +17,7 @@ title: Giat Rehabilitation
 + *(Article or resource)*
 + *(Article or resource)*
 
-## Concept or Subtopic *(Pareto equilibrium solutions) *
+## Concept or Subtopic *(ex: Pareto optimality) *
 *(description of concept or subtopic)*
 
 ### Examples or Walkthrough *(RISE Code/Github + RISE example/walkthrough)*
