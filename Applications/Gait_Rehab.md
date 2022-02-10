@@ -22,7 +22,7 @@ title: Giat Rehabilitation
 
 ---
 
-## Concept or Subtopic *(ex: Pareto optimality) *
+## Concept or Subtopic *(ex: Pareto optimality)*
 *(ADD: description of concept or subtopic)*
 
 ### Sample Projects
