@@ -1,4 +1,4 @@
 # Learning in HRI
 ---
-[Return Home](/index.md)
+[Return Home](../index.md)
 ---
