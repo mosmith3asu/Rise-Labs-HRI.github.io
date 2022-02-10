@@ -5,7 +5,7 @@ title: Home
 Add Landing Page Description \
 add introduction to HRI
 
-# Table of Contents
+# Table of Contents (Updated)
 ## [1. Applications](/Applications/Applications_Home.md) 
 ### [1.a Gait Rehabilitation (Mostafa)](/Applications/Gait_Rehab.md) 
 ### [1.b Human-Robot Teaming (Mason)](/Applications/HRT.md) 
